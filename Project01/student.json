@@ -1,0 +1,29 @@
+[
+    {
+        "name": "lalit",
+        "age": 25,
+        "course": "mca",
+        "skills": [
+            "java",
+            "pyton"
+        ]
+    },
+    {
+        "name": "amit",
+        "age": 25,
+        "course": "bca",
+        "skills": [
+            "java",
+            "js"
+        ]
+    },
+    {
+        "name": "lalit",
+        "age": 20,
+        "course": "mca",
+        "skills": [
+            "java",
+            "python"
+        ]
+    }
+]
